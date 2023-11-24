@@ -132,3 +132,66 @@ nav .navigation ul li a:hover{
 section h2{
     font-family: Arial, Helvetica, sans-serif;
 }
+}
+.banner-area{
+    height: 400;
+    width: 1200px;;
+    -webkit-background-size: cover;
+    margin: 10 auto;
+    background-image: url(PHOTO-2019-03-04-14-45-13\ 2\ \(1\).jpg);
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+.banner-area h2{
+    padding-top: 8%;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    color:#ffffff;
+    position: center;
+}
+
+.container-box{
+    display: flex;
+}
+.card{
+    background-color: #fff;
+    width:270px;
+    justify-content: center;
+    margin:27px;
+    padding: 0;
+    position: center;
+}
+.card-image{
+    background-color:#ffa439;
+    height: 150px;
+    margin-bottom: 15px;
+    background-size: cover;
+}
+.car-1{
+    background-image: url('under_grad_main\ \(1\).jpg');
+}
+.car-2{
+    background-image: url('undergraduate.\ photo.jpg');
+}
+.car-3{
+    background-image: url('Msc\ and\ Mphil-photo.jpg');
+}
+.car-4{
+    background-image: url('PhD\ courses-\ photo.jpg');
+}
+.card h2{
+    padding: 10px;
+}
+.card p{
+    padding: 20px;
+}
+.card a{
+    background-color: #ffa439;
+    color: #fff;
+    padding: 10px 14px;
+    text-align: center;
+    display: inline-block;
+    margin: 20px 50px;
+}
