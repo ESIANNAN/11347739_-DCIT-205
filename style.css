@@ -162,4 +162,31 @@ nav .navigation ul li a:hover{
     height: 150px;
     margin-bottom: 15px;
 }
+.car-1{
+    background-image: url('under_grad_main\ \(1\).jpg');
+}
+.car-2{
+    background-image: url('undergraduate.\ photo.jpg');
+}
+.car-3{
+    background-image: url('Msc\ and\ Mphil-photo.jpg');
+}
+.car-4{
+    background-image: url('PhD\ courses-\ photo.jpg');
+}
+.card h2{
+    padding: 10px;
+}
+.card p{
+    padding: 20px;
+}
+.card a{
+    background-color: #ffa439;
+    color: #fff;
+    padding: 8px 12px;
+    text-align: center;
+    display:block;
+    text-align: center;
+}
+
 
