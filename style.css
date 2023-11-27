@@ -199,3 +199,15 @@ nav .navigation ul li a:hover{
     padding:30;
     margin: 20px;
 }
+.container{
+    display: flex;
+    justify-content: center;
+  
+}
+.thumbnail{
+    margin: 20px;
+}
+
+
+
+    
