@@ -9,8 +9,6 @@
 .ul{
     float: right;
     list-style-type: none;
-
-
 }
  .body{
     line-height: 1.5;
@@ -42,7 +40,6 @@ ul{
 .footer-col{
     width:25%;
     padding:0 15px;
-
 }
 .footer-col h4{
     font-size: 18px;
@@ -51,7 +48,6 @@ ul{
     margin-bottom: 35px;
     font-weight: 500;
     position: relative;
-
 }
 .footer-col h4:: before{
     content:'';
@@ -85,7 +81,7 @@ ul{
     height: 40px;
     width: 40px;
     background-color: rgba(255,255,255,0.2);
-    margin-right: 0 10px 10px 0;
+    margin-right: 10px 10px ;
     text-align: center;
     line-height: 40px;
     border-radius: 50%;
@@ -96,7 +92,6 @@ ul{
     color= #24262b;
     background-color= #ffffff;
 }
-
 /*navigation*/
 nav{
     display: flex;
@@ -104,7 +99,7 @@ nav{
     justify-content: space-between;
     align-items: center;
     padding: 1vw 8vw;
-    box-shadow: 2px 2px 10px rgba(0,0,0,0.15);
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.15); 
 }
 nav img{
     width: 300px;
@@ -127,11 +122,8 @@ nav .navigation ul li a{
     transition: 0.3s ease;
 }
 nav .navigation ul li a:hover{
-    color:#ffa439;
-}
-section h2{
-    font-family: Arial, Helvetica, sans-serif;
-}
+    background:#ffffff;
+    color: #ffa439;
 }
 .banner-area{
     height: 400;
@@ -159,7 +151,7 @@ section h2{
     background-color: #fff;
     width:270px;
     justify-content: center;
-    margin:27px;
+    margin:25px;
     padding: 0;
     position: center;
 }
@@ -190,8 +182,20 @@ section h2{
 .card a{
     background-color: #ffa439;
     color: #fff;
-    padding: 10px 14px;
+    padding: 8px 12px;
     text-align: center;
-    display: inline-block;
-    margin: 20px 50px;
+    display:block;
+    text-align: center;
+}
+.section{
+    display: flex;
+    justify-content: center;
+
+}
+.section a{
+    color: #f0a146;
+}
+.text{
+    padding:30;
+    margin: 20px;
 }
