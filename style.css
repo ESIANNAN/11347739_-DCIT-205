@@ -207,6 +207,24 @@ nav .navigation ul li a:hover{
 .thumbnail{
     margin: 20px;
 }
+.car-5{
+    background-image: url('Mobile\ App\ Dev.jpg');
+}
+.car-6{
+    background-image: url('CCNA.png');
+}
+.car-7{
+    background-image: url('Cyber\ Security.jpg');
+}
+.container .card{
+    max-width: 300px;
+    height: 420px;
+}
+.container .card .imgBox{
+    position: relative;
+    width: 260px ;
+    height: 260px;
+}
 
 
 
