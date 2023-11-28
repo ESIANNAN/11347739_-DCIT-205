@@ -9,6 +9,9 @@ It is a website built on Html and CSS which is created to provide relevant infor
 How to clone and set up the project:
     Cloning and setting up the project was a major task in the creation of the website. We clone a repository from github.com to your local computer to make it easier to fix , merge conflicts and add or reove files and push larger commits. Forking is another term used in github where you fork an original repository to have access to another persons repository and also helps to allow multiple collaborators to contribute in a project.
 
+    Setting up git:
+    To use Git and GitHub in VS Code, first make sure you have Git installed on your computer. If Git is missing, the Source Control view shows instructions on how to install it. Make sure to restart VS Code afterwards.Additionally you can sign into VS Code with your GitHub account in the Accounts menu in the lower right of the Activity bar to enables additional features like Settings Sync, but also cloning and publishing repositories from GitHub
+    
     Clonining a project:
     *
 
